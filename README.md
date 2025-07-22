@@ -1,0 +1,2 @@
+# streamliteApp
+Bid Monitoring Platform
